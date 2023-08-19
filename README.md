@@ -6,7 +6,7 @@
 
 	$ python run_fingerprint.py
 
-.
+Machine Learning Algorithm
 
 	$ python run_ml.py
 
