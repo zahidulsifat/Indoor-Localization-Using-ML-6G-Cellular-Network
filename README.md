@@ -7,6 +7,26 @@
 Here, in Figure, a traditional method called signal fingerprinting is applied, consisting of two phases: training and matching. The matching algorithm is used at the matching phase. The system demonstrates the sequence of tasks involved in generating and matching fingerprints and the process of populating the fingerprint database with geotagged signatures. In order to develop a model that can estimate the user position coordinates based on the RSSI, this study compared a wide range of regression algorithms. 
 
 
+# Results
+
+## Algorithmic performance comparison
+![Regration Algorithm](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Regression%20Algorithm.png)
+
+## Evaluation of K Nearest Neighbor (KNN) (k=3) Algorithm
+
+### Distance Error Histogram
+
+![Distance Error Histogram](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Distribution%20of%20Geodesic%20Errors.png)
+
+### Actual vs. Predicted Distance
+
+![Actual vs. Predicted Distance](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Actual%20Vs%20Predicted%20Distance%20Errors.png)
+
+
+## Cross-Validation
+ The algorithm uses Leave-One-Out cross-validation to assess the model's accuracy. This cross-validation filters out poorly predicted points and refines the model accordingly.
+
+
 # For Further Development
 
 [1] Open this folder as project folder in any Python IDE <br />
@@ -17,11 +37,11 @@ Here, in Figure, a traditional method called signal fingerprinting is applied, c
 
 
 
-
 # References
 
-**[1]** M. Z. Islam Sifat, M. Mostafa Amir Faisal, M. M. Hossain and M. A. Islam, "An Improved Positioning System For 6G Cellular Network," 2023 26th International Conference on          Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: https://10.1109/ICCIT60459.2023.10441118. <br />
-**[2]** VO, Quoc Duy; DE, Pradipta. A survey of fingerprint-based outdoor localization. IEEE Communications Surveys & Tutorials, v. 18, n. 1, p. 491-506, 2016. doi: 
+**[1]** M. Z. Islam Sifat, M. Mostafa Amir Faisal, M. M. Hossain and M. A. Islam, "An Improved Positioning System For 6G Cellular Network," 2023 26th International 
+        Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: https://10.1109/ICCIT60459.2023.10441118 <br />
+**[2]** VO, Quoc Duy; DE, Pradipta. A survey of fingerprint-based outdoor localization. IEEE Communications Surveys & Tutorials, v. 18, n. 1, p. 491-506, 2016, doi: 
         https://doi.org/10.1109/COMST.2015.2448632 <br />
 **[3]** Pandas. https://pandas.pydata.org <br />
 **[4]**	scikit-lean. http://scikit-learn.org <br />
