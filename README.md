@@ -9,18 +9,18 @@ Here, in Figure, a traditional method called signal fingerprinting is applied, c
 
 # For Further Development
 
-Open this folder as project folder in any Python IDE <br />
-The above mentioned folder has datasates included <br />
-Here Python 3.10 was used as based interpreter <br />
-To perform simulation, first, create a virtual environment in a blank folder then install the required libraries <br />
-Pycharm Professional Edition is Highly Recommended <br />
+[1] Open this folder as project folder in any Python IDE <br />
+[2] The above mentioned folder has datasates included <br />
+[3] Here Python 3.10 was used as based interpreter <br />
+[4] To perform simulation, first, create a virtual environment in a blank folder then install the required libraries <br />
+[5] Pycharm Professional Edition is Highly Recommended <br />
 
 
 
 
 # References
 
-[1] M. Z. Islam Sifat, M. Mostafa Amir Faisal, M. M. Hossain and M. A. Islam, "An Improved Positioning System For 6G Cellular Network," 2023 26th International Conference on   n  Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ICCIT60459.2023.10441118. <br />
-[2] VO, Quoc Duy; DE, Pradipta. A survey of fingerprint-based outdoor localization. IEEE Communications Surveys & Tutorials, v. 18, n. 1, p. 491-506, 2016. <br />
-[3] Pandas. https://pandas.pydata.org <br />
-[4]	scikit-lean. http://scikit-learn.org <br />
+**[1]** M. Z. Islam Sifat, M. Mostafa Amir Faisal, M. M. Hossain and M. A. Islam, "An Improved Positioning System For 6G Cellular Network," 2023 26th International Conference on          Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ICCIT60459.2023.10441118. <br />
+**[2]** VO, Quoc Duy; DE, Pradipta. A survey of fingerprint-based outdoor localization. IEEE Communications Surveys & Tutorials, v. 18, n. 1, p. 491-506, 2016. <br />
+**[3]** Pandas. https://pandas.pydata.org <br />
+**[4]**	scikit-lean. http://scikit-learn.org <br />
