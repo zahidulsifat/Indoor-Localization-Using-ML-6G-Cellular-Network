@@ -7,12 +7,13 @@
 Here, in Figure, a traditional method called signal fingerprinting is applied, consisting of two phases: training and matching. The matching algorithm is used at the matching phase. The system demonstrates the sequence of tasks involved in generating and matching fingerprints and the process of populating the fingerprint database with geotagged signatures. In order to develop a model that can estimate the user position coordinates based on the RSSI, this study compared a wide range of regression algorithms. 
 
 
+# For Further Development
 
-Open this folder as project folder in any Python IDE.
-The above mentioned folder has datasates included
-Here Python 3.10 was used as based interpreter
-To perform simulation, first, create a virtual environment in a blank folder then install the required libraries.
-Pycharm Professional Edition is Highly Recommended
+Open this folder as project folder in any Python IDE <br />
+The above mentioned folder has datasates included <br />
+Here Python 3.10 was used as based interpreter <br />
+To perform simulation, first, create a virtual environment in a blank folder then install the required libraries <br />
+Pycharm Professional Edition is Highly Recommended <br />
 
 
 
