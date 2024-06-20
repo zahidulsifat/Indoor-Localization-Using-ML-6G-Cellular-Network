@@ -1,4 +1,4 @@
-# This algorithm was developed in Python using Pandas and scikit-learn libraries.
+# This model was developed in Python using Pandas and scikit-learn libraries.
 
 ## Proposed System
 ![Proposed System](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Proposed%20System.png)
@@ -12,7 +12,7 @@ Here, in Figure, a traditional method called signal fingerprinting is applied, c
 ## Algorithmic Performance Comparison
 ![Regration Algorithm](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Regression%20Algorithm.png)
 
-## Evaluation of K Nearest Neighbor (KNN) (k=3) Algorithm
+## Evaluation of K Nearest Neighbor (KNN) (k=3) Model
 
 ### Distance Error Histogram
 
@@ -35,6 +35,32 @@ Here, in Figure, a traditional method called signal fingerprinting is applied, c
 [4] To perform simulation, first, create a virtual environment in a blank folder then install the required libraries <br />
 [5] Pycharm Professional Edition is Highly Recommended <br />
 
+### Accuracy_Percentage
+For calculating percentage result from mean error 
+
+### Fingerprint_Algorithm
+Fingerprint algorithm used for localization
+
+### KNN_Evaluation
+For evaluating the performance of K Nearest Neighbor (KNN) Model
+
+### Leaveoneout_Cross_Validation
+This cross-validation filters out poorly predicted points and refines the model accordingly
+
+### LTE_ML_Model
+The new model is based on this model
+
+### Revised_6G_ML_Model
+The new model for localization in 6G indoor environment
+
+### Test_Model
+This was the initial model
+
+### Traditiuonal_Models
+Traditional models like Sui, OkamuraHata, Ericsson are included in this.
+
+### Tranditional_Models_With_ML
+Traditional models with machine learning algorithms
 
 
 # References
