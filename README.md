@@ -9,7 +9,7 @@ Here, in Figure, a traditional method called signal fingerprinting is applied, c
 
 # Results
 
-## Algorithmic performance comparison
+## Algorithmic Performance Comparison
 ![Regration Algorithm](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Regression%20Algorithm.png)
 
 ## Evaluation of K Nearest Neighbor (KNN) (k=3) Algorithm
