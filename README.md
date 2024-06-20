@@ -1,6 +1,6 @@
 # This algorithm was developed in Python using Pandas and scikit-learn libraries.
 
-##Proposed System
+#Proposed System
 ![Proposed System](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Proposed%20System.png)
 
 
