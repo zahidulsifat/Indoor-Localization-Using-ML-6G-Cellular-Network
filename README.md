@@ -7,14 +7,14 @@
 Here, in Figure, a traditional method called signal fingerprinting is applied, consisting of two phases: training and matching. The matching algorithm is used at the matching phase. The system demonstrates the sequence of tasks involved in generating and matching fingerprints and the process of populating the fingerprint database with geotagged signatures. In order to develop a model that can estimate the user position coordinates based on the RSSI, this study compared a wide range of regression algorithms. 
 
 
-##  Data Collection Processing and Visualization
+# Data Collection Processing and Visualization
 
 Data preprocessing included shuffling and normalization of attributes to prepare the dataset for algorithmic evaluation. The data used in this study contains about 2557 lines with six different measures from six different Radio Base Stations (RBSs). It has two columns that represent the user's position. Also, two additional datasets are used: one provides more information about the RBSs, such as their positions and the power of the radiated signal, and another is used as a test dataset.
 
-### Heatmap showing the correlation between user positions and RSSI values from training dataset
+## Heatmap showing the correlation between user positions and RSSI values from training dataset
 ![Correlation Matrix](https://github.com/zahidulsifat/Indoor-Localization-Using-ML-6G-Cellular-Network/blob/main/Visualization/Correlation%20Matrix%20of%20RSSI.png)
 
-### Scatter plot of correlation between the user's position and the RSSI values from all Radio Base Station from training datase
+## Scatter plot of correlation between the user's position and the RSSI values from all Radio Base Station from training datase
 ![Scatter Plot](https://github.com/zahidulsifat/Indoor-Localization-Using-ML-6G-Cellular-Network/blob/main/Visualization/Scatter%20Plot%20For%20All%20RBS.png)
 
 
