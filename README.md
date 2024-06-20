@@ -1,7 +1,7 @@
 # This algorithm was developed in Python using Pandas and scikit-learn libraries.
 
 
-![Proposed System][https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Proposed%20System.png]
+![Proposed System](https://github.com/zahidulsifat/Indoor-Localization-6G-Cellular-Network/blob/main/Outputs/Proposed%20System.png)
 
 
 Here, in Fig., a traditional method called signal fingerprinting is applied, consisting of two phases: training and matching. The matching algorithm is used at the matching phase. The system demonstrates the sequence of tasks involved in generating and matching fingerprints and the process of populating the fingerprint database with geotagged signatures. In order to develop a model that can estimate the user position coordinates based on the RSSI, this study compared a wide range of regression algorithms. 
