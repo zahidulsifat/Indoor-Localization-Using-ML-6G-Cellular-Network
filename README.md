@@ -20,7 +20,7 @@ Here, in Figure, a traditional method called signal fingerprinting is applied, c
 
 # References
 
-**[1]** M. Z. Islam Sifat, M. Mostafa Amir Faisal, M. M. Hossain and M. A. Islam, "An Improved Positioning System For 6G Cellular Network," 2023 26th International Conference on          Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ICCIT60459.2023.10441118. <br />
+**[1]** M. Z. Islam Sifat, M. Mostafa Amir Faisal, M. M. Hossain and M. A. Islam, "An Improved Positioning System For 6G Cellular Network," 2023 26th International Conference on          Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: https://10.1109/ICCIT60459.2023.10441118. <br />
 **[2]** VO, Quoc Duy; DE, Pradipta. A survey of fingerprint-based outdoor localization. IEEE Communications Surveys & Tutorials, v. 18, n. 1, p. 491-506, 2016. <br />
 **[3]** Pandas. https://pandas.pydata.org <br />
 **[4]**	scikit-lean. http://scikit-learn.org <br />
