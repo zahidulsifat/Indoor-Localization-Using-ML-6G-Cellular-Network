@@ -70,7 +70,7 @@ The new model for localization in 6G indoor environment
 ### Test_Model
 This was the initial model
 
-### Traditiuonal_Models
+### Traditional_Models
 Traditional models like Sui, OkamuraHata, Ericsson are included in this.
 
 ### Tranditional_Models_With_ML
